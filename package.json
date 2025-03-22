@@ -1,6 +1,6 @@
 {
   "name": "@cerebrofoundation/mcp-intent",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "An MCP server built to use intent gateway",
   "main": "build/server.js",
   "type": "module",
